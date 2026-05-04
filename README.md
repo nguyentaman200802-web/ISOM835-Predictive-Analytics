@@ -34,4 +34,4 @@ All code and analysis were completed in Google Colab. To view the code, visualiz
 2. (https://colab.research.google.com/drive/1TeUmLlwRQIVnRfo4UZ_4MB82Go-ixUoS?usp=sharing)
 3. *Note: To run the cells yourself, you will need to download the `Train.csv` file from the Kaggle link above and upload it to the Colab session storage.*
 
-Alternatively, you can read the full, comprehensive analysis in the `Term Project Final Report.pdf` located in the `reports/` folder of this repository.
+Alternatively, you can read the full, comprehensive analysis in the `Term Project Final Report.docx` located in the `reports/` folder of this repository.
